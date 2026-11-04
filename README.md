@@ -105,8 +105,11 @@ A new bridge always goes where a watercourse crosses a road, so the system offer
 
 ![New bridge on a road-water crossing](img/puente-nuevo-cruces.png)
 
-### Public reporting: road conditions
-Two installable web apps (PWA) are born from the same platform and shared by WhatsApp with the people who travel the network. The first one, **Road Traffic Light**, lets anyone report the condition of the road where they are, with no account and from their phone, on the four-level scale of the Argentine *Rural Roads Manual*.
+### Public reporting
+Two installable web apps (PWA) are born from the same platform and shared by WhatsApp with the people who travel the network, so the road users themselves become a source of field data.
+
+#### Road conditions
+The first one, **Road Traffic Light**, lets anyone report the condition of the road where they are, with no account and from their phone, on the four-level scale of the Argentine *Rural Roads Manual*.
 
 - The report is placed on the road network automatically, from GPS or by tapping the map.
 - It works with no signal: the report waits on the phone and is sent when the connection returns.
@@ -124,6 +127,26 @@ Two installable web apps (PWA) are born from the same platform and shared by Wha
 </table>
 
 ![Office view of the reports](img/semaforo-panel.png)
+
+#### Roadkill wildlife
+The second one lets anyone report a **native animal killed on the road**, for the area that runs roadkill surveys. The catalogue covers 48 native species or groups of the Chaco (mammals, birds, reptiles and amphibians), and "I don't know" is a valid answer: a report without a species still counts for the road segment.
+
+- Same base as the road conditions app: no account, works with no signal, placed on the network automatically.
+- Photos are never published; the office reviews and confirms the species, keeping what the reporter said alongside.
+- The office gets a summary by species, zone, consortium and month, and the **critical road segments**: animals per km of road, with a clear warning that these are opportunistic records, not a systematic survey.
+
+<table>
+<tr>
+<td><img src="img/fauna-app-reporte.jpg" width="220" alt="New report"></td>
+<td><img src="img/fauna-app-especie.jpg" width="220" alt="Species"></td>
+</tr>
+<tr>
+<td align="center"><sub>New report</sub></td>
+<td align="center"><sub>Choosing the species</sub></td>
+</tr>
+</table>
+
+![Office summary and critical segments](img/fauna-panel-resumen.png)
 
 ---
 
