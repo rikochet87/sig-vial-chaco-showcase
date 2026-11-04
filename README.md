@@ -91,6 +91,15 @@ Quantities drawn on the map, then unit price analysis, budget and a printable A4
 
 ![Printable layout](img/composicion-obra.png)
 
+### Wooden bridges: inventory and new bridges
+Every bridge surveyed with the app, with its condition from the piece-by-piece inspection, on a list and a map. From here an engineer can plan maintenance, a repair, or a brand-new bridge, with quantities and budget computed on the standard design drawings.
+
+![Bridge inventory](img/puentes-inventario.png)
+
+A new bridge always goes where a watercourse crosses a road, so the system offers exactly those places: **1,217 crossings** between the consortium roads and the rivers and canals, the same crossings the hydrology module uses to show where rain and water meet the network. It also warns if a surveyed bridge already exists nearby.
+
+![New bridge on a road-water crossing](img/puente-nuevo-cruces.png)
+
 ---
 
 ## Main features
