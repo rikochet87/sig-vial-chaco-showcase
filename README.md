@@ -64,6 +64,11 @@ Structures the technician already knows can be surveyed from the office, on sate
 
 ![Office survey](img/relevamiento-gabinete.png)
 
+### Road network editor
+The network can be edited directly in the platform, without depending on QGIS: draw new segments with snapping to existing roads, edit or remove segments, and assign them to a consortium or to the provincial agency. Each change updates the kilometres of the consortiums involved, and every map in the system shows it immediately. Changes can be exported back to QGIS as GeoJSON.
+
+![Road network editor](img/editar-red.png)
+
 ### Rainfall over the road network
 Rain gauge readings (~70 stations) interpolated over every road segment, so a storm that hits one end of a consortium isn't hidden in an average.
 
