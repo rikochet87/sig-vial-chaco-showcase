@@ -59,6 +59,11 @@ Used by the zone technicians on the road. Home with the network summary, the roa
 </tr>
 </table>
 
+### From the field to the office
+A bridge surveyed with the app, as the office sees it once it syncs: date, zone, road condition, the bridge data, its position on the map and the photos taken on site. It can be exported to KML or Shapefile, and the office can add more photos later.
+
+![Field survey in the web platform](img/relevamiento-ficha.png)
+
 ### Office surveys
 Structures the technician already knows can be surveyed from the office, on satellite imagery with the road network underneath. Zone, consortium and road fill in automatically from the map, and the record is marked as an office survey so it is never confused with a measurement taken on site.
 
