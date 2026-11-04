@@ -105,6 +105,26 @@ A new bridge always goes where a watercourse crosses a road, so the system offer
 
 ![New bridge on a road-water crossing](img/puente-nuevo-cruces.png)
 
+### Public reporting: road conditions
+Two installable web apps (PWA) are born from the same platform and shared by WhatsApp with the people who travel the network. The first one, **Road Traffic Light**, lets anyone report the condition of the road where they are, with no account and from their phone, on the four-level scale of the Argentine *Rural Roads Manual*.
+
+- The report is placed on the road network automatically, from GPS or by tapping the map.
+- It works with no signal: the report waits on the phone and is sent when the connection returns.
+- On the phone a report is visible for 24 hours; the office keeps the full history, can review reports before they are published, and builds condition indices from them.
+
+<table>
+<tr>
+<td><img src="img/semaforo-app-mapa.jpg" width="220" alt="Public map"></td>
+<td><img src="img/semaforo-app-reporte.jpg" width="220" alt="Report form"></td>
+</tr>
+<tr>
+<td align="center"><sub>Public map</sub></td>
+<td align="center"><sub>Report form</sub></td>
+</tr>
+</table>
+
+![Office view of the reports](img/semaforo-panel.png)
+
 ---
 
 ## Main features
