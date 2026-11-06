@@ -197,6 +197,6 @@ Built by one person, using **AI agents (Claude Code) as the main development too
 
 <div align="center">
 
-**Matías Rosello** · [GitHub](https://github.com/rikochet87) · rosellomatias87@gmail.com
+**Matías Roselló** · [GitHub](https://github.com/rikochet87) · rosellomatias87@gmail.com
 
 </div>
